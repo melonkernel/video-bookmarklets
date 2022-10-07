@@ -2,6 +2,8 @@
 
 Youtube and other video players only allow you to listen to 2x speed max. But your brain can handle more. After a while you will get used to faster and faster speeds. It is useful in certain situations.
 
+![Screenshot](screenshot.png)
+
 ### Step 1
 Create a folder in your bookmarks bar, called "v"
 
