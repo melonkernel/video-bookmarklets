@@ -1,4 +1,4 @@
-# Video bookmarklets for productivity and fun
+# Video bookmarklets
 
 Youtube and other video players only allow you to listen to 2x speed max. But your brain can handle more. After a while you will get used to faster and faster speeds. It is useful in certain situations.
 
