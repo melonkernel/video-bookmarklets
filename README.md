@@ -22,3 +22,5 @@ Create a bookmark called `pip` with this url
 
 This will allow you to have a small "picture in picture" for the vide you are viewing.
 (Although if you want to change the speed while showing picture-in-picture, you have to be in the tab that has the video element)
+
+(I found the pip snippet on the internet somewhere sometime)
